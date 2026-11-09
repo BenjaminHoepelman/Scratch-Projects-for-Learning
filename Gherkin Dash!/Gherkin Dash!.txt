@@ -1,0 +1,5 @@
+Press space to jump.
+Jump over each spike.
+Don't jump into the roof spike.
+The score will go up every second.
+This is an edited version of Gilmbo must run!

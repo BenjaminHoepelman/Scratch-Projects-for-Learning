@@ -1,0 +1,2 @@
+A simple game where you use arrow keys to catch apples.
+The score will increase with each apple you catch.

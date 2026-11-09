@@ -1,0 +1,4 @@
+Press space to jump.
+Jump over each spike.
+Don't jump into the roof spike.
+The score will go up every second.

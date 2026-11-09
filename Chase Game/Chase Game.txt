@@ -1,0 +1,2 @@
+Catch the star.
+Every time you catch the star the score will go up.
